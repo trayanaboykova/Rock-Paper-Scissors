@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
 
+![rock-paper-scissors-game-rules](https://github.com/user-attachments/assets/85871ed3-c251-4a98-a86c-650fa2a0ce7c)
+
 <h3>Introduction</h3>
 <p> This project is a simple console-based implementation of the classic Rock-Paper-Scissors game in Java. The game lets a user play against a computer opponent, with the computer making random choices. </p>
 

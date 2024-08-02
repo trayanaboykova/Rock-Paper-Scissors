@@ -2,69 +2,55 @@
 
 ![rock-paper-scissors-game-rules](https://github.com/user-attachments/assets/85871ed3-c251-4a98-a86c-650fa2a0ce7c)
 
-<h3>Introduction</h3>
-<p> This project is a simple console-based implementation of the classic Rock-Paper-Scissors game in Java. The game lets a user play against a computer opponent, with the computer making random choices. </p>
+## Overview
+"Rock-Paper-Scissors" is a simple console-based game developed in Java. The player competes against the computer, which randomly selects a move. The player can choose between Rock, Paper, or Scissors, and the game determines the outcome based on the classic rules of Rock-Paper-Scissors.
 
-<h3>Features</h3>
-<ul>
-  <li><strong>User Input</strong>: Choose Rock, Paper, or Scissors.</li>
-  <li><strong>Randomized Computer Choice</strong>: The computer randomly selects a move.</li>
-  <li><strong>Outcome Display</strong>: The game announces whether the user won, lost, or tied.</li>
-</ul>
+## Features
+- **Randomized Computer Choice:** The computer randomly selects Rock, Paper, or Scissors for each round.
+- **User Input:** The player can choose their move by entering 'r' for Rock, 'p' for Paper, or 's' for Scissors.
+- **Outcome Display:** The game displays the choices made by both the player and the computer, and announces whether the player won, lost, or tied.
 
-<h3>Getting Started</h3>
+## How to Play
+1. **Start the Game:** Run the Java program. The game will prompt you to enter a choice.
+2. **Choose Your Move:** Type 'r' for Rock, 'p' for Paper, or 's' for Scissors and press Enter.
+3. **View the Outcome:** The game will display the player's choice, the computer's choice, and the result:
+   - **You win!**: If the player's move beats the computer's move.
+   - **You lose!**: If the computer's move beats the player's move.
+   - **It's a tie!**: If both the player and the computer choose the same move.
 
-<h4>Prerequisites</h4>
-<p>To run this project, ensure you have the following installed:</p>
-<ul>
-  <li>Java Development Kit (JDK)</li>
-</ul>
+## Installation and Setup
+To play the game, follow these steps:
 
-<h4>Running the Game</h4>
-<ol>
-  <li><strong>Clone the Repository</strong>:
-    <pre><code>git clone https://github.com/your-username/rock-paper-scissors.git</code></pre>
-  </li>
-  <li><strong>Navigate to the Project Directory</strong>:
-    <pre><code>cd rock-paper-scissors</code></pre>
-  </li>
-  <li><strong>Compile the Program</strong>:
-    <pre><code>javac RockPaperScissors.java</code></pre>
-  </li>
-  <li><strong>Run the Game</strong>:
-    <pre><code>java RockPaperScissors</code></pre>
-  </li>
-</ol>
+1. **Clone the Repository:** Clone or download the repository containing the project files.
+2. **Compile the Java File:** Use a Java compiler to compile the RockPaperScissors.java` file.
+   ```sh
+   javac RockPaperScissors.java
 
-<h4>How to Play</h4>
-<ol>
-  <li><strong>Prompt</strong>: The game will prompt you to enter a choice.
-    <pre><code>Choose [r]ock, [p]aper, or [s]cissors:</code></pre>
-  </li>
-  <li><strong>Input</strong>: Type 'r', 'p', or 's' for Rock, Paper, or Scissors, respectively, and press Enter.</li>
-  <li><strong>Result</strong>: The program will display the choices made and announce the result of the game.</li>
-</ol>
+## Requirements
+- Java Development Kit (JDK) 8 or higher
+- A console or terminal to run the Java program
 
-<h4>Example Output</h4>
-<pre><code>Choose [r]ock, [p]aper, or [s]cissors: r
-You chose: Rock
-Computer chose: Paper
-You lose!
-</code></pre>
+## Project Structure
+- `RockPaperScissors.java`: The main Java file containing the game's logic.
 
-<h4>Project Structure</h4>
-<ul>
-  <li><code>RockPaperScissors.java</code>: Contains the main game logic.</li>
-</ul>
+## Learning Objectives
+This project is part of a Java Fundamentals course designed to teach the following concepts:
 
-<h4>Contributing</h4>
-<p>Contributions are welcome! If you have suggestions for improvements, please fork the repository and create a pull request. Feel free to open issues for any bugs or enhancements.</p>
+- Basic Java syntax and structure
+- Console input and output handling
+- Random number generation
+- Control structures (loops and conditionals)
+- Handling user input and implementing basic game logic
 
-<h4>License</h4>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+## Future Improvements
+- Implementing a graphical user interface (GUI)
+- Adding a scoring system to keep track of wins, losses, and ties
+- Introducing different modes or levels of difficulty
 
-<h4>Acknowledgments</h4>
-<p>The project is inspired by the traditional Rock-Paper-Scissors game and was part of my learning at SoftUni from Java Fundamentals. </p>
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+### Acknowledgments
+This project is inspired by the traditional Rock, Paper, Scissors game and was developed as part of my learning at SoftUni from Java Fundamentals.
 
  

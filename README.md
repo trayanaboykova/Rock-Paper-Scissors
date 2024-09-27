@@ -51,6 +51,6 @@ This project is part of a Java Fundamentals course designed to teach the followi
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments
-This project is inspired by the traditional Rock, Paper, Scissors game and was developed as part of my learning at SoftUni from Java Fundamentals.
+This project is inspired by the traditional Rock, Paper, Scissors game and was developed as part of my learning at SoftUni from [Programming Fundamentals with Java](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023).
 
  

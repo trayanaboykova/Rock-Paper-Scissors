@@ -52,5 +52,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Acknowledgments
 This project is inspired by the traditional Rock, Paper, Scissors game and was developed as part of my learning at [SoftUni](https://softuni.bg/) from [Programming Fundamentals with Java](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023).
-
- 
